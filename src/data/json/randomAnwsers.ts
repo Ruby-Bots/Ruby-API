@@ -1,0 +1,23 @@
+export default [
+    "yes",
+    "maybe",
+    "no",
+    "possibly",
+    "in the future",
+    "never",
+    "no comment",
+    "not sure",
+    "don't know",
+    "don't know yet",
+    "not sure yet",
+    "not possitive",
+    "not possitive yet",
+    "not yet",
+    "not yet sure",
+    "no.",
+    "yes.",
+    "yes, definitely",
+    "no, definitely",
+    "no, but",
+    "no, but its a possibility"
+]
